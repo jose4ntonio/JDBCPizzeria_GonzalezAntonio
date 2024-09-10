@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 public class ConsultaPizza extends javax.swing.JFrame {
 
-    private boolean modoAgregar = true; // Variable para saber si estamos en modo agregar o actualizar
+    private boolean modoAgregar = false; // Variable para saber si estamos en modo agregar o actualizar
 
     public ConsultaPizza() {
         initComponents();
